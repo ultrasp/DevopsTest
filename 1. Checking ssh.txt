@@ -1,0 +1,11 @@
+For windows
+1. Win+R
+2. cmd (open console )
+2. nslookup (cecking dns name of server. To defeine is problem in DNS?)
+3. [server.name]
+4. If Dns resolved need check by online dns checker Bacuase could it be local or subnet problem 
+5. if resolved ip adrres check connection by ping
+6. ping [server ip adress]
+7. if connection ok checking ssh port (default 22)
+8. telnet [server ip adress] 22
+9. If ok we could connect to server ssh
